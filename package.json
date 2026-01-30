@@ -1,0 +1,10 @@
+{
+  "name": "@kooyoseb/text-button",
+  "version": "1.0.0",
+  "description": "Turn plain text into a clickable button on websites",
+  "type": "module",
+  "main": "index.js",
+  "keywords": ["text", "button", "ui", "web", "interaction"],
+  "author": "kooyoseb",
+  "license": "MIT"
+}
